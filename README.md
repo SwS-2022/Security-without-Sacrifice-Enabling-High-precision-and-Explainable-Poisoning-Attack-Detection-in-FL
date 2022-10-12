@@ -4,11 +4,11 @@ This is the appendix and code for "Security without Sacrifice: Enabling High-pre
 Appendix is in Appendix.pdf.
 
 ![](images/ACC_CA_iid.png)
-![](images/ACC_CA_noniid.png)
-![](images/iid_bir_brr.png)
-![](images/noniid_bir_brr.png)
-![](images/tpr_fpr_iid.png)
-![](images/tpr_fpr_noniid.png)
+![](images/ACC_CA_noniid.PNG)
+![](images/iid_bir_brr.PNG)
+![](images/noniid_bir_brr.PNG)
+![](images/tpr_fpr_iid.PNG)
+![](images/tpr_fpr_noniid.PNG)
 
 ## Code
 Code is coming soon...
